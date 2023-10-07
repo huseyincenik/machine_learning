@@ -53,6 +53,6 @@ Welcome to the Linear Regression Project! In this project, we will explore a dat
 
 
 
-You can find the dataset and more details about this project on [Kaggle](https://www.kaggle.com/your_username/your_project).
+You can find the dataset and more details about this project on [Kaggle](https://www.kaggle.com/code/huseyincenik/exploring-linear-regression/notebook).
 
 Enjoy exploring and building with linear regression!
