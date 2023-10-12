@@ -54,7 +54,7 @@ Feel free to explore the code and more details on my Kaggle and GitHub profiles:
 
 [Kaggle Notebook Link](https://www.kaggle.com/code/huseyincenik/multiple-linear-regression-and-regression-error)
 
-[Github Notebook Link](https://www.kaggle.com/code/huseyincenik/multiple-linear-regression-and-regression-error)
+[Github Notebook Link](https://github.com/huseyincenik/machine_learning/blob/main/Project/multiple_linear_regression_and_regression_error_metrics)
 
 Happy learning and data analysis! 📈🚀
 
