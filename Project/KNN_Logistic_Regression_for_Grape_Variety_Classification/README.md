@@ -1,4 +1,7 @@
-# Project Title
+# 🧮 KNN and 📈 Logistic Regression for Grape Variety Classification 🍇
+
+![image](https://github.com/huseyincenik/machine_learning/assets/127469334/179a9cc2-6321-41fa-a211-0ad636eb3889)
+
 
 In this document, you will find an overview of the project structure, its sections, and a brief description of each part.
 
@@ -87,5 +90,6 @@ Provide a conclusion summarizing the project's results and findings.
 
 Thank you for reading the README file. For more details and results, please refer to the project's documentation and code.
 
-![Github Notebook Link]()
-![Kaggle Notebook Link]()
+[Github Notebook Link](https://github.com/huseyincenik/machine_learning/tree/main/Project/KNN_Logistic_Regression_for_Grape_Variety_Classification)
+
+[Kaggle Notebook Link](https://www.kaggle.com/huseyincenik/knn-and-logistic-reg-for-grape-classification)
