@@ -26,6 +26,6 @@ To explore a specific project, simply click on the project folder and you'll fin
 
 ## Contact
 
-If you have any questions or would like to collaborate on a project, feel free to [contact me](mailto:youremail@example.com).
+If you have any questions or would like to collaborate on a project, feel free to [contact me](mailto:huseyinceniik@gmail.com).
 
 Happy coding!
