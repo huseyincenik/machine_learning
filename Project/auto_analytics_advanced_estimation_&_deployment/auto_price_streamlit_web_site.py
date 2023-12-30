@@ -190,12 +190,8 @@ co_emissions = st.sidebar.number_input("Enter Average CO Emissions", min_value =
 # To load machine learning model
 
 
-
-file_name = "rf_pipe_model"
-
-
 model_xgb = pickle.load(open("xgb_pipe_model", "rb"))
-model_rf = pickle.load(open(file_name, "rb"))
+model_rf = pickle.load(open("rf_pipe_model", "rb"))
 
 
 my_dict = {"power_kW":power_kw,
