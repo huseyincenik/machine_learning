@@ -162,13 +162,15 @@ selected_algorithm = st.sidebar.selectbox("Select Algorithm", ["Random Forest", 
 
 # Load the appropriate CSV file for the selected algorithm
 if selected_algorithm == "Random Forest":
-    data_filename = "./rf_data.csv"
+    df = pd.read_csv("rf_data.csv")
+    # data_filename = "rf_data.csv"
 elif selected_algorithm == "XGBoost":
-    data_filename = "./xgb_data.csv"
+    df = pd.read_csv("xgb_data.csv")
+    
 else:
     st.error("Invalid Selection!")
 
-df = pd.read_csv(data_filename)
+
 st.header("Training Dataframe is below:")
 st.markdown("---")
 st.write(df.sample(5))
